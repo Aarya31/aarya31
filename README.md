@@ -1,6 +1,6 @@
  Hi there 👋 I am Aarya Prajapat.
 
-- 🔭 I’m currently working on my developement skills.  
--🌱 I’m also learning backend and DSA.  
+- 🔭 I’m currently working in TCS as a software Engineer.
+-🌱 I’m also learning backend and DSA in python.
 -👯 Looking to collaborate on webdev projects.  
 
